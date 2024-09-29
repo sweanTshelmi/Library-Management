@@ -26,6 +26,6 @@ System Requirements
 We use github for versioning. For the versions available, see the tags on this repository.
 
 ## Authors
-* Dilmani Balalla 
+* Dilmani Balalla  
 * Timasha Naminigoda 
 * Hiruni Hapuarachchi
