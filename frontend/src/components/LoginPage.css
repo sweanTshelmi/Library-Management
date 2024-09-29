@@ -1,0 +1,43 @@
+/* LoginPage.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f8f9fa; /* Light background color for better visibility */
+}
+
+.login-form {
+    background-color: #fff; /* White background for the form */
+    padding: 2rem;
+    border: 1px solid #dee2e6; /* Light gray border */
+    border-radius: 0.5rem; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow for better focus */
+    max-width: 500px; /* Increase the max width of the form */
+    width: 100%; /* Make it responsive */
+}
+
+.login-form h1 {
+    margin-bottom: 1.5rem; /* Space between title and form */
+    text-align: center; /* Center the title */
+}
+
+.form-control {
+    height: 3rem; /* Increase height of input fields */
+    font-size: 1rem; /* Increase font size for better readability */
+}
+
+.btn {
+    font-size: 1.25rem; /* Increase button font size */
+    padding: 0.75rem; /* Increase padding */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary color */
+    border: none; /* Remove border */
+    border-radius: 0.5rem; /* Match border-radius with form */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
